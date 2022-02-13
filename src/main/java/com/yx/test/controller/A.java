@@ -33,6 +33,7 @@ public class A {
         if (a.equals("dddd")){
             System.out.println("A1");
             System.out.println("B1");
+            System.out.println("C1");
             s=a+"ddd";
         }
         if(Objects.isNull(s)){
