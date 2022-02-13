@@ -12,6 +12,7 @@ public class A {
         String xx = "xx";
         String s = testa + xx;
         if (s.equals("xx")) {
+            System.out.println("c");
             System.out.println("D1");
             System.out.println("E2");
             System.out.println("A1");
