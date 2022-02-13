@@ -12,6 +12,7 @@ public class A {
         String xx = "xx";
         String s = testa + xx;
         if (s.equals("xx")) {
+            System.out.println("D1");
             System.out.println("E2");
             System.out.println("A1");
             System.out.println("B1");
@@ -33,6 +34,7 @@ public class A {
 
         if (a.equals("dddd")){
             System.out.println("E2");
+            System.out.println("D1");
             System.out.println("A1");
             System.out.println("B1");
             System.out.println("C1");
